@@ -5,6 +5,19 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+
+  --color--red: #ff6b55;
+  --color--purple: #7f43ff;
+  --color--green: #05a863;
+  --color--red--translucent: #ff6b551c;
+  --color--purple--translucent: #7f43ff1c;
+  --color--green--translucent: #05a8631c;
+  --color--gray-1: #eff0f1;
+  --color--gray-2: #89929c;
+  --text--primary: #1b1b1d;
+  --text--secondary: #616770;
+  --bg--primary: #ffffff;
+  --bg--secondary: #d6dae0;
 }
 
 code {
