@@ -23,7 +23,7 @@ const Body = () => {
 
 const Wrapper = styled.div`
   align-items: center;
-  background-color: var(--bg--secondary);
+  background-color: #b395ff;
   display: grid;
   height: 100vh;
   justify-content: center;
